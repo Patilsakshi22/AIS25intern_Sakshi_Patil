@@ -40,11 +40,11 @@ KeyError: Explain how accessing non-existent keys causes this error and ways to 
 
 ## Python task 2:
 
-# Grade Code and Divisibility Check by using if ,if else and if elif else statement.
+### Grade Code and Divisibility Check by using if ,if else and if elif else statement.
 1. Grade Code: Assigns grades based on a given percentage.
 2. Divisibility Check: Checks whether a number is divisible by 2 or 3.
 
-# Grade Code
+### Grade Code
 - Assigns grades based on the following criteria:
     - P: 50
     - O: p > 75
@@ -55,7 +55,7 @@ KeyError: Explain how accessing non-existent keys causes this error and ways to 
 #### Divisibility Check
 - Checks whether a number n is divisible by 2 or 3.
 To run the code, simply execute the Python files using
-## For loop:
+### For loop:
 - Printing odd values between 20 and 80 without using if then by using for loop only.
 - Creating lists of numbers using for loops
 - Taking cube of odd values between 20 to 40
@@ -185,11 +185,11 @@ NumPy (Numerical Python) is a library for working with arrays and mathematical o
 1. Series: 1D labeled array, similar to a list with index labels.
 2. DataFrame: 2D labeled table, similar to an Excel spreadsheet.
 
-# Creating Data Structures
+### Creating Data Structures
 1. pd.Series(): Create a Series from a list or array.
 2. pd.DataFrame(): Create a DataFrame from a dictionary or list of lists.
 
-# Data Operations
+### Data Operations
 Indexing & Slicing
 1. df['col']: Select a column by label.
 2. df.iloc[]: Select rows and columns by integer position.
@@ -242,7 +242,7 @@ pip install matplotlib
 Once installed, you can import it into your Python script:
 
 import matplotlib.pyplot as plt
-## Seaborn:
+### Seaborn:
 What is Seaborn
 Seaborn is an amazing visualization library for statistical graphics plotting in Python. It provides beautiful default styles and color palettes to make statistical plots more attractive. It is built on top matplotlib library and is also closely integrated with the data structures from pandas. Seaborn aims to make visualization the central part of exploring and understanding data. It provides dataset-oriented APIs so that we can switch between different visual representations for the same variables for a better understanding of the dataset.
 
